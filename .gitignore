@@ -1,2 +1,5 @@
 hideme.md
 MQ_1_al_19.pdf
+.git/*
+.conda/*
+.venv/*
