@@ -10,3 +10,5 @@
 * I like conflicts
 * I solved a conflict
 * This file is now UTF-8, can Kraken read it?
+* Yes it can now
+* Created .gitignore and hideme.md file
